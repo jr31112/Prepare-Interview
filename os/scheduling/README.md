@@ -38,7 +38,7 @@
 
 ![스케줄링1](./schedule1) 
 
- ![스케줄링2](C:\Users\jr435\Desktop\면접\os\scheduling\schedule2) 
+ ![스케줄링2](./schedule2) 
 
 1. 장기 스케줄러(Admission scheduler)
 
